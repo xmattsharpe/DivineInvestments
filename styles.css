@@ -1,4 +1,55 @@
 
+img {
+    width: 300px;
+    border-radius: 150px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 61px;
+   
+}
+
+#ROTATE {
+    width: 300px;
+    border-radius: 150px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 61px;
+    transform: transform 0.2s;
+
+}
+
+#ROTATE:hover{
+
+transform: rotate(180deg);
+
+}
+#Before {
+    margin-top: 20px;
+    width: 300px;
+    border-radius: 150px;
+    margin-left: 100px; 
+    margin-top: 70px;
+}
+
+#After {
+    margin-top: 20px;
+    width: 300px;
+    border-radius: 150px;
+    margin-left: 500px; 
+    margin-top: 70px;
+}
+
+#Arrow {
+    margin-top: -280px;
+    width: 300px;
+    border-radius: 150px;
+    margin-left: 495px; 
+   
+}
+.Username{
+    font-weight: bold;
+}
+
 
 body{
 
@@ -25,3 +76,6 @@ font-size: 22px;
     font-size: 22px;
 }
 
+h2 {
+    text-indent: 450px;
+}
