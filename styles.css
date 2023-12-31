@@ -1,6 +1,27 @@
 
+
+body{
+
+    background-color: lightgrey;
+}
+
 #Title{
 
-margin-left: 630px;
+margin-left: 650px;
 
 }
+
+#Pitch{
+
+color:crimson ;
+font-style: italic;
+margin-left: 600px;
+font-size: 22px;
+
+}
+
+#Mission{
+
+    font-size: 22px;
+}
+
